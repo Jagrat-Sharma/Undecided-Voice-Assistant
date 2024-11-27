@@ -6,3 +6,4 @@
 # Tweak response layout on 2024-11-07
 # Refactor UI on 2024-11-16
 # Adjust speech engine on 2024-11-25
+# Add command handler on 2024-11-27
