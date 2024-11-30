@@ -3,3 +3,4 @@
 # Fix minor bug on 2024-11-05
 # Update docstring on 2024-11-08
 # Update docstring on 2024-11-08
+# Add command handler on 2024-11-30
