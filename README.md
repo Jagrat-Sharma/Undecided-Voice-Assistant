@@ -11,3 +11,4 @@
 # Update docstring on 2024-11-28
 # Add command handler on 2024-11-29
 # Update docstring on 2024-12-02
+# Refactor UI on 2024-12-03
