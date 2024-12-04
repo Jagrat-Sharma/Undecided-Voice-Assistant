@@ -13,3 +13,4 @@
 # Update docstring on 2024-12-02
 # Refactor UI on 2024-12-03
 # Refactor UI on 2024-12-04
+# Fix minor bug on 2024-12-04
