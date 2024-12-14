@@ -5,3 +5,4 @@
 # Add command handler on 2024-12-11
 # Refactor UI on 2024-12-12
 # Adjust speech engine on 2024-12-12
+# Fix minor bug on 2024-12-14
