@@ -3,3 +3,4 @@
 # Update docstring on 2024-11-03
 # Refactor UI on 2024-11-30
 # Adjust speech engine on 2024-12-14
+# Refactor UI on 2024-12-16
