@@ -8,3 +8,4 @@
 # Fix minor bug on 2024-12-03
 # Adjust speech engine on 2024-12-12
 # Fix minor bug on 2024-12-13
+# Tweak response layout on 2024-12-17
