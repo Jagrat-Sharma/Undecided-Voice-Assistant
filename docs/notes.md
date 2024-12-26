@@ -12,3 +12,4 @@
 # Adjust speech engine on 2024-12-17
 # Adjust speech engine on 2024-12-19
 # Add command handler on 2024-12-23
+# Refactor UI on 2024-12-26
