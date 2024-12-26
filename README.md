@@ -18,3 +18,4 @@
 # Add command handler on 2024-12-17
 # Refactor UI on 2024-12-18
 # Update docstring on 2024-12-19
+# Adjust speech engine on 2024-12-26
