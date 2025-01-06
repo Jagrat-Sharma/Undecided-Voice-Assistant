@@ -12,3 +12,4 @@
 # Tweak response layout on 2024-12-23
 # Adjust speech engine on 2024-12-24
 # Refactor UI on 2024-12-25
+# Adjust speech engine on 2025-01-06
