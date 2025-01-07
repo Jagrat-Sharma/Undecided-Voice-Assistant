@@ -9,3 +9,4 @@
 # Refactor UI on 2024-12-20
 # Adjust speech engine on 2024-12-22
 # Update docstring on 2024-12-23
+# Add command handler on 2025-01-07
