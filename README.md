@@ -22,3 +22,4 @@
 # Update docstring on 2024-12-28
 # Update docstring on 2025-01-05
 # Update docstring on 2025-01-06
+# Tweak response layout on 2025-01-07
