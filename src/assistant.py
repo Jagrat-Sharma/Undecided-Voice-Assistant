@@ -9,3 +9,4 @@
 # Fix minor bug on 2024-12-29
 # Tweak response layout on 2024-12-29
 # Adjust speech engine on 2025-01-05
+# Add command handler on 2025-01-12
