@@ -15,3 +15,4 @@
 # Refactor UI on 2024-12-26
 # Fix minor bug on 2025-01-09
 # Add command handler on 2025-01-10
+# Fix minor bug on 2025-01-12
