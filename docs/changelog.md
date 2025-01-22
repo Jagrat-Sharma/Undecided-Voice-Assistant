@@ -11,3 +11,4 @@
 # Update docstring on 2024-12-23
 # Add command handler on 2025-01-07
 # Add command handler on 2025-01-20
+# Fix minor bug on 2025-01-22
