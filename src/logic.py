@@ -15,3 +15,4 @@
 # Refactor UI on 2025-01-11
 # Add command handler on 2025-01-17
 # Add command handler on 2025-01-21
+# Tweak response layout on 2025-01-30
