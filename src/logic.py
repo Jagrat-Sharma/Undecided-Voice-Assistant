@@ -17,3 +17,4 @@
 # Add command handler on 2025-01-21
 # Tweak response layout on 2025-01-30
 # Fix minor bug on 2025-01-30
+# Fix minor bug on 2025-02-01
