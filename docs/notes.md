@@ -24,3 +24,4 @@
 # Adjust speech engine on 2025-01-25
 # Add command handler on 2025-01-26
 # Fix minor bug on 2025-02-02
+# Tweak response layout on 2025-02-03
