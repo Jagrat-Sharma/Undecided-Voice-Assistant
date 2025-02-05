@@ -13,3 +13,4 @@
 # Add command handler on 2025-01-20
 # Fix minor bug on 2025-01-22
 # Adjust speech engine on 2025-01-27
+# Fix minor bug on 2025-02-05
