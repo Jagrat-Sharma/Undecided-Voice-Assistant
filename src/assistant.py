@@ -14,3 +14,4 @@
 # Fix minor bug on 2025-01-29
 # Tweak response layout on 2025-01-29
 # Adjust speech engine on 2025-01-31
+# Adjust speech engine on 2025-02-06
