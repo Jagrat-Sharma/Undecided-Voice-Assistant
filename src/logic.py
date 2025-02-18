@@ -20,3 +20,4 @@
 # Fix minor bug on 2025-02-01
 # Adjust speech engine on 2025-02-03
 # Update docstring on 2025-02-07
+# Add command handler on 2025-02-18
