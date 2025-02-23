@@ -18,3 +18,4 @@
 # Tweak response layout on 2025-02-07
 # Refactor UI on 2025-02-19
 # Fix minor bug on 2025-02-20
+# Adjust speech engine on 2025-02-23
